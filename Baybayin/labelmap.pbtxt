@@ -1,0 +1,84 @@
+item {
+    id: 1
+    name: 'A'
+}
+
+item {
+    id: 2
+    name: 'E'
+}
+
+item {
+    id: 3
+    name: 'O'
+}
+
+item {
+    id: 4
+    name: 'Ba'
+}
+
+item {
+    id: 5
+    name: 'Da'
+}
+
+item {
+    id: 6
+    name: 'Ga'
+}
+
+item {
+    id: 7
+    name: 'Ha'
+}
+
+item {
+    id: 8
+    name: 'Ka'
+}
+
+item {
+    id: 9
+    name: 'La'
+}
+
+item {
+    id: 10
+    name: 'Ma'
+}
+
+item {
+    id: 11
+    name: 'Na'
+}
+
+item {
+    id: 12
+    name: 'Pa'
+}
+
+item {
+    id: 13
+    name: 'Ra'
+}
+
+item {
+    id: 14
+    name: 'Sa'
+}
+
+item {
+    id: 15
+    name: 'Ta'
+}
+
+item {
+    id: 16
+    name: 'Wa'
+}
+
+item {
+    id: 17
+    name: 'Ya'
+}
